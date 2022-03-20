@@ -1,4 +1,4 @@
-# doremon
+# Doremon
 DOREMON DRAWING WITH PYTHON & TURTLE 🐢
 
 
